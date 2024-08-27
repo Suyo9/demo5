@@ -3,3 +3,8 @@ Hello World!
 git added before first commit
 
 Fixing the big
+
+created new branch
+
+modified after new branch commit
+
